@@ -33,11 +33,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacofee maryamf-developer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacofee maryamf-developer" /></a><a href="https://ko-fi.com/Ko-fi maryamf-developer"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi maryamf-developer" /></a></p><br><br>
 
-<p align="left" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamfatima1120&show_icons=true&locale=en&layout=compact" alt="maryamfatima1120" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryamfatima1120&show_icons=true&locale=en&layout=compact" alt="maryamfatima1120" /></p>
 
-<p align="center" > <img  src="https://github-readme-stats.vercel.app/api?username=maryamfatima1120&show_icons=true&locale=en" alt="maryamfatima1120" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryamfatima1120&show_icons=true&locale=en" alt="maryamfatima1120" /></p>
 
-<p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maryamfatima1120&" alt="maryamfatima1120" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryamfatima1120&" alt="maryamfatima1120" /></p>
