@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maryam Fatima</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamfatima1120&label=Profile%20views&color=0e75b6&style=flat" alt="maryamfatima1120" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamfatima1120" alt="maryamfatima1120" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maryamfatima1120&label=Profile%20views&color=0e75b6&style=flat" alt="maryamfatima1120" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamfatima1120" alt="maryamfatima1120" /></a> </p>
 
 - 🔭 I’m currently working on Developing mobile applications using Flutter and Dart. [Alerto Emergency Response App](https://github.com/MaRyamFatima1120/alerto-emergency-response-app-final)
 
