@@ -35,8 +35,7 @@
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d9074f3f-85bc-42d0-a380-ac5f068cdb10" alt="Hackathon Winner Level 1"/>
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/21c4815f-f1fd-4250-9c88-fa19fdef2a41" alt="X Hackathons Level 1"  />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/14d73f46-27fb-4e57-8c02-94f3bbe3bc8b" alt="Generalist" />
-  <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/136aae65-f7f4-4a92-9b79-02e5b996a406" />
-
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/136aae65-f7f4-4a92-9b79-02e5b996a406" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6519291e-f119-452a-b4b7-bc7b20b4a74d"  alt="Welcome to Devpost" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/618fe16f-c2d3-44e3-b90b-b1dbbd083cf8" alt="First Online Hackathon" />
 </p>
