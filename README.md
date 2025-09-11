@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Fatima</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Flutter Developer | 🏆 Google Maps Platform Awards 2025 — Community Favorite </h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryamfatima1120&label=Profile%20views&color=0e75b6&style=flat" alt="maryamfatima1120" /> </p>
@@ -31,7 +31,9 @@
   *(Physical trophy + digital badge awarded by Devpost)*  
 
 <p align="left">
-  <img src="fe7da55a06691d0a0fa2fb2f32d9d352_large_bronze.png" alt="Hackathon Winner Level 1" width="120"/>
+  <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/d9074f3f-85bc-42d0-a380-ac5f068cdb10" alt="Hackathon Winner Level 1" width="120" />
+
+
   <img src="ceffdfce970ff3dfa4435ebc5fc7f33a_large.png" alt="First Online Hackathon" width="120"/>
   <img src="2a2cd5de90e8e74016c5e23d387b74e0_large.png" alt="Generalist" width="120"/>
   <img src="c1387e1971cd2d0e67200d956b460c07_large_bronze.png" alt="X Hackathons Level 1" width="120"/>
