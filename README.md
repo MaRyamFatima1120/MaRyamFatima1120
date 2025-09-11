@@ -23,6 +23,21 @@
 
 - ⚡ Fun fact **I solve every Flutter bug I encounter—it's my superpower!**
 
+
+<h3 align="left">🏆 Awards & Achievements</h3>
+
+- **Community Favorite — Google Maps Platform Awards 2025**  
+  Won with [Alerto – Emergency Response App](https://github.com/MaRyamFatima1120/alerto-emergency-response-app-final)  
+  *(Physical trophy + digital badge awarded by Devpost)*  
+
+<p align="left">
+  <img src="fe7da55a06691d0a0fa2fb2f32d9d352_large_bronze.png" alt="Hackathon Winner Level 1" width="120"/>
+  <img src="ceffdfce970ff3dfa4435ebc5fc7f33a_large.png" alt="First Online Hackathon" width="120"/>
+  <img src="2a2cd5de90e8e74016c5e23d387b74e0_large.png" alt="Generalist" width="120"/>
+  <img src="c1387e1971cd2d0e67200d956b460c07_large_bronze.png" alt="X Hackathons Level 1" width="120"/>
+  <img src="d431f7b4f3a71b2b35881ea755e24613_large.png" alt="Welcome to Devpost" width="120"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maryamf-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryamf-developer" height="30" width="40" /></a>
