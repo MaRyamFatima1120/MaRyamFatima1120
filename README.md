@@ -31,13 +31,11 @@
   *(Physical trophy + digital badge awarded by Devpost)*  
 
 <p align="left">
-  <img width="384" height="384" alt="image" src="https://github.com/user-attachments/assets/d9074f3f-85bc-42d0-a380-ac5f068cdb10" alt="Hackathon Winner Level 1" width="120" />
-
-
-  <img src="ceffdfce970ff3dfa4435ebc5fc7f33a_large.png" alt="First Online Hackathon" width="120"/>
-  <img src="2a2cd5de90e8e74016c5e23d387b74e0_large.png" alt="Generalist" width="120"/>
-  <img src="c1387e1971cd2d0e67200d956b460c07_large_bronze.png" alt="X Hackathons Level 1" width="120"/>
-  <img src="d431f7b4f3a71b2b35881ea755e24613_large.png" alt="Welcome to Devpost" width="120"/>
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d9074f3f-85bc-42d0-a380-ac5f068cdb10" alt="Hackathon Winner Level 1"/>
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/245b4e1b-7a2c-4a9c-8242-46ddff8af403" alt="X Hackathons Level 1"  />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/14d73f46-27fb-4e57-8c02-94f3bbe3bc8b" alt="Generalist" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6519291e-f119-452a-b4b7-bc7b20b4a74d"  alt="Welcome to Devpost" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/618fe16f-c2d3-44e3-b90b-b1dbbd083cf8" alt="First Online Hackathon" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
